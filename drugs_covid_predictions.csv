@@ -1,0 +1,1574 @@
+,0,1
+0,Lepirudin,0.66508025
+1,Cetuximab,0.6600821
+2,Dornase alfa,0.5783179
+3,Denileukin diftitox,0.5479055
+4,Etanercept,0.6498663
+5,Leuprolide,0.6428141
+6,Peginterferon alfa-2a,0.7903033
+7,Alteplase,0.63470244
+8,Sermorelin,0.5504623
+9,Urokinase,0.62482613
+10,Goserelin,0.58359027
+11,Reteplase,0.61328334
+12,Erythropoietin,0.6716689
+13,Salmon Calcitonin,0.59536636
+14,Pegfilgrastim,0.5592272
+15,Sargramostim,0.56292737
+16,Peginterferon alfa-2b,0.5687901
+17,Asparaginase,0.5863556
+18,Anakinra,0.6843476
+19,Gramicidin D,0.54897046
+20,Insulin Human,0.48164743
+21,Tenecteplase,0.6300068
+22,Desmopressin,0.5874272
+23,Coagulation factor VIIa Recombinant Human,0.48717406
+24,Oprelvekin,0.5687901
+25,Palifermin,0.58617187
+26,Glucagon recombinant,0.579663
+27,Aldesleukin,0.5199618
+28,Omalizumab,0.5349588
+29,Insulin Lispro,0.5108201
+30,Insulin Glargine,0.52164495
+31,Collagenase clostridium histolyticum,0.5830329
+32,Rasburicase,0.5326401
+33,Adalimumab,0.6737039
+34,Somatropin recombinant,0.5555595
+35,Imiglucerase,0.5687901
+36,Gemtuzumab ozogamicin,0.5687901
+37,Pegaspargase,0.5896171
+38,Interferon beta-1a,0.64138365
+39,Eptifibatide,0.53022575
+40,Infliximab,0.64098996
+41,Vasopressin,0.55977255
+42,Interferon beta-1b,0.5687901
+43,Trastuzumab,0.5752571
+44,Rituximab,0.64036083
+45,Basiliximab,0.6125554
+46,Ibritumomab tiuxetan,0.5687901
+47,Daptomycin,0.575646
+48,Pegvisomant,0.6138065
+49,Pancrelipase,0.6544176
+50,Alemtuzumab,0.6312882
+51,Alglucerase,0.5922652
+52,Laronidase,0.5997594
+53,Cyclosporine,0.59683377
+54,Alefacept,0.56490713
+55,Efalizumab,0.58248734
+56,Filgrastim,0.50918055
+57,Coagulation Factor IX,0.48219377
+58,Becaplermin,0.577335
+59,Agalsidase beta,0.5615496
+60,Octreotide,0.6068051
+61,Abarelix,0.6206649
+62,Oxytocin,0.5889548
+63,Natalizumab,0.5719915
+64,Enfuvirtide,0.8144274
+65,Palivizumab,0.6469807
+66,Daclizumab,0.62070554
+67,Bevacizumab,0.39761502
+68,Cyanocobalamin,0.6950729
+69,Biotin,0.60959625
+70,Choline,0.55252624
+71,Vitamin C,0.6205757
+72,L-Aspartic Acid,0.70837396
+73,L-Glutamine,0.5511691
+74,Adenosine monophosphate,0.540062
+75,L-Serine,0.5797065
+76,Calcitriol,0.5747312
+77,Xanthophyll,0.5224816
+78,Succinic acid,0.63743526
+79,Riboflavin,0.5687901
+80,Glycine,0.65912884
+81,Calcidiol,0.5838446
+82,L-Cysteine,0.5405457
+83,Thiamine,0.6586679
+84,Ergocalciferol,0.6530465
+85,Folic Acid,0.7247469
+86,Icosapent,0.6026892
+87,Vitamin A,0.684618
+88,Vitamin E,0.5305232
+89,Pyridoxine,0.6560545
+90,Lipoic Acid,0.5972126
+91,Cholecalciferol,0.68923956
+92,Pravastatin,0.58942056
+93,Fluvoxamine,0.63410246
+94,Valsartan,0.51382697
+95,Ramipril,0.5109718
+96,Masoprocol,0.62306076
+97,Flunisolide,0.5687901
+98,Baclofen,0.62622267
+99,Amphetamine,0.597107
+100,Nicotine,0.67089486
+101,Lorazepam,0.632538
+102,Esmolol,0.5887571
+103,Bortezomib,0.62985396
+104,Ethchlorvynol,0.5687901
+105,Carbidopa,0.47882444
+106,Phentermine,0.61107767
+107,Tramadol,0.63004166
+108,Vidarabine,0.5907327
+109,Betaxolol,0.64647305
+110,Fluconazole,0.66612077
+111,Oseltamivir,0.6136064
+112,Erythromycin,0.60425925
+113,Hydroxocobalamin,0.6412699
+114,Caffeine,0.7123835
+115,Sildenafil,0.6762805
+116,Pyrimethamine,0.5254531
+117,Reserpine,0.57266426
+118,Azithromycin,0.55279183
+119,Ticlopidine,0.5687901
+120,Trospium,0.52043986
+121,Adapalene,0.5687901
+122,Midodrine,0.60134643
+123,Pantoprazole,0.5808204
+124,Torasemide,0.5602376
+125,Citalopram,0.64541763
+126,Eletriptan,0.60669476
+127,Moxifloxacin,0.6041113
+128,Nelfinavir,0.83924866
+129,Glimepiride,0.62436205
+130,Diflorasone,0.56492305
+131,Indinavir,0.83621615
+132,Guanadrel,0.51813096
+133,Lovastatin,0.55901057
+134,Pregabalin,0.6389004
+135,Temazepam,0.5407728
+136,Methyclothiazide,0.5179312
+137,Aminosalicylic Acid,0.58151543
+138,Reboxetine,0.61278784
+139,Milrinone,0.5687901
+140,Butabarbital,0.58363366
+141,Nevirapine,0.81801486
+142,Oxiconazole,0.5038119
+143,Alclometasone,0.5320173
+144,Butalbital,0.5687901
+145,Cladribine,0.5687901
+146,Ranolazine,0.5389303
+147,Mesalazine,0.64638764
+148,Benzatropine,0.48320362
+149,Ziprasidone,0.62409246
+150,Cabergoline,0.4676884
+151,Idoxuridine,0.5941423
+152,Dapsone,0.5338059
+153,Terconazole,0.5783272
+154,Phenytoin,0.6327035
+155,Medrysone,0.5570898
+156,Doxycycline,0.49230978
+157,Clotrimazole,0.50399035
+158,Calcium Acetate,0.8146112
+159,Sulfanilamide,0.6069866
+160,Cycloserine,0.56001085
+161,Anagrelide,0.5687901
+162,Carmustine,0.62685555
+163,Sulfisoxazole,0.4898988
+164,Metoprolol,0.5042832
+165,Crotamiton,0.5651762
+166,Dicoumarol,0.5805344
+167,Ropinirole,0.503256
+168,Isradipine,0.5122981
+169,Topiramate,0.58874476
+170,Cefmetazole,0.5716498
+171,Olmesartan,0.5687901
+172,Theophylline,0.49973598
+173,Argatroban,0.6642033
+174,Liothyronine,0.7695581
+175,Disopyramide,0.54211617
+176,Lidocaine,0.5460413
+177,Pamidronate,0.6050665
+178,Clemastine,0.64856476
+179,Acarbose,0.62887794
+180,Venlafaxine,0.70000964
+181,Conjugated Estrogens,0.4813911
+182,Travoprost,0.67667496
+183,Amcinonide,0.5401663
+184,Atomoxetine,0.5716872
+185,Bleomycin,0.74883866
+186,Chlorambucil,0.61004204
+187,Morphine,0.6291842
+188,Bupivacaine,0.5199658
+189,Penciclovir,0.5370205
+190,Tenofovir,0.9003058
+191,Tranexamic Acid,0.51409787
+192,Ertapenem,0.61135465
+193,Mitomycin,0.6786192
+194,Talbutal,0.541965
+195,Bexarotene,0.5687901
+196,Vindesine,0.64449805
+197,Chlorthalidone,0.5135545
+198,Pentobarbital,0.55443335
+199,Valproic Acid,0.6129876
+200,Capreomycin,0.5650377
+201,Zolmitriptan,0.617088
+202,Acetaminophen,0.66836137
+203,Gefitinib,0.55514014
+204,Codeine,0.68303925
+205,Piperacillin,0.48275414
+206,Dihydroergotamine,0.63470566
+207,Amitriptyline,0.5646617
+208,Floxuridine,0.5427989
+209,Tolcapone,0.5240925
+210,Fluorometholone,0.57514864
+211,Nitroprusside,0.4755734
+212,Calcium Gluceptate,0.82819766
+213,Hydromorphone,0.6709255
+214,Indomethacin,0.68670905
+215,Ethambutol,0.5759145
+216,Metformin,0.61936206
+217,Ipratropium bromide,0.57250357
+218,Methadone,0.61976767
+219,Olanzapine,0.65471935
+220,Atenolol,0.49692467
+221,Nitrofural,0.5129436
+222,Omeprazole,0.6579107
+223,Pyrazinamide,0.5749898
+224,Metixene,0.5213266
+225,Cetirizine,0.67107314
+226,Diltiazem,0.46923387
+227,Protriptyline,0.56976026
+228,Alfuzosin,0.5967297
+229,Trimethadione,0.6008595
+230,Nitisinone,0.6654991
+231,Clobazam,0.6180188
+232,Minoxidil,0.47741765
+233,Megestrol acetate,0.5319821
+234,Tioguanine,0.67441094
+235,Methylergometrine,0.5332871
+236,Buclizine,0.559939
+237,Aztreonam,0.47014815
+238,Chlorzoxazone,0.5687901
+239,Aminoglutethimide,0.54165995
+240,Mefloquine,0.704515
+241,Sulfadiazine,0.62229913
+242,Sapropterin,0.5687901
+243,Vinorelbine,0.5687901
+244,Anidulafungin,0.66904867
+245,Clozapine,0.57731754
+246,Sucralfate,0.60038304
+247,Doxylamine,0.639396
+248,Levonorgestrel,0.48494446
+249,Norepinephrine,0.50368404
+250,Mirtazapine,0.63049054
+251,Meprobamate,0.5434791
+252,Timolol,0.625531
+253,Treprostinil,0.5687901
+254,Colestipol,0.5637789
+255,Trihexyphenidyl,0.47781125
+256,Palonosetron,0.5726935
+257,Mexiletine,0.5687901
+258,Amlodipine,0.47886893
+259,Oxyphencyclimine,0.53434336
+260,Triamterene,0.53162783
+261,Valrubicin,0.5687901
+262,Procyclidine,0.46685645
+263,Phenylephrine,0.60531324
+264,Carbimazole,0.5044771
+265,Digoxin,0.5463422
+266,Sulpiride,0.59061515
+267,Nimodipine,0.5687901
+268,Beclomethasone dipropionate,0.6082584
+269,Carisoprodol,0.6216537
+270,Progesterone,0.41922048
+271,Phenylpropanolamine,0.6507669
+272,Sorafenib,0.6982656
+273,Zoledronic acid,0.6151955
+274,Griseofulvin,0.5270008
+275,Nisoldipine,0.5687901
+276,Eszopiclone,0.5525562
+277,Alprazolam,0.64591074
+278,Dexbrompheniramine,0.66044223
+279,Gentian Violet,0.57583773
+280,Loxapine,0.6582777
+281,Mupirocin,0.54354626
+282,Carbachol,0.5687901
+283,Pramipexole,0.5027619
+284,Ampicillin,0.5124845
+285,Phenoxymethylpenicillin,0.51110923
+286,Secobarbital,0.58210593
+287,Miglustat,0.5744923
+288,Promazine,0.6240045
+289,Spironolactone,0.56118625
+290,Methylphenidate,0.58636653
+291,Methocarbamol,0.6607711
+292,Hyoscyamine,0.6152024
+293,Zolpidem,0.5432335
+294,Famciclovir,0.51985013
+295,Triprolidine,0.6482162
+296,Carboprost Tromethamine,0.6873681
+297,Lindane,0.5817732
+298,Trifluridine,0.62644655
+299,Prochlorperazine,0.5753398
+300,Cyproheptadine,0.6400218
+301,Nitric Oxide,0.597629
+302,Bendroflumethiazide,0.5034329
+303,Allopurinol,0.61149013
+304,Ceftazidime,0.47052032
+305,Trimethoprim,0.49131948
+306,Gemcitabine,0.65931547
+307,Entecavir,0.7672349
+308,Betamethasone,0.5514398
+309,Teniposide,0.5687901
+310,Epirubicin,0.5687901
+311,Chloramphenicol,0.44345894
+312,Lansoprazole,0.61030084
+313,Dipivefrin,0.65241903
+314,Levothyroxine,0.75585824
+315,Pethidine,0.6223679
+316,Loratadine,0.65655905
+317,Cefalotin,0.5433286
+318,Prazosin,0.5687901
+319,Imipramine,0.5763801
+320,Acitretin,0.55756295
+321,Verteporfin,0.66327447
+322,Nabumetone,0.65048325
+323,Methylscopolamine bromide,0.60997605
+324,Sodium Tetradecyl Sulfate,0.5231766
+325,Ketorolac,0.6652732
+326,Enoxacin,0.519081
+327,Quinine,0.6803665
+328,Tenoxicam,0.60936636
+329,Montelukast,0.5530456
+330,Fluoxetine,0.7373313
+331,Chlordiazepoxide,0.5247621
+332,Duloxetine,0.62495977
+333,Chlorpromazine,0.5973512
+334,Rimantadine,0.5404517
+335,Amikacin,0.5040181
+336,Lenalidomide,0.63748574
+337,Raloxifene,0.57675534
+338,Celecoxib,0.7050914
+339,Brimonidine,0.70372516
+340,Dicloxacillin,0.5922135
+341,Altretamine,0.6360584
+342,Buspirone,0.5687901
+343,Miglitol,0.5687901
+344,Fosinopril,0.4928225
+345,Cefotaxime,0.46404842
+346,Entacapone,0.5132644
+347,Zidovudine,0.8362139
+348,Darifenacin,0.5077656
+349,Oxycodone,0.62339866
+350,Flutamide,0.6011676
+351,Tolmetin,0.64413553
+352,Cimetidine,0.59634936
+353,Haloperidol,0.61640203
+354,Ritonavir,0.90082216
+355,Nitazoxanide,0.48851278
+356,Triflupromazine,0.58358705
+357,Dextrothyroxine,0.5532743
+358,Vancomycin,0.47427955
+359,Dextromethorphan,0.6726192
+360,Cisplatin,0.6918896
+361,Anisotropine Methylbromide,0.6200541
+362,Albendazole,0.70892715
+363,Trandolapril,0.50008255
+364,Caspofungin,0.6671389
+365,Carteolol,0.59317774
+366,Metolazone,0.5124808
+367,Tolnaftate,0.55121976
+368,Oxaliplatin,0.59582555
+369,Cinchocaine,0.5311575
+370,Lercanidipine,0.5023854
+371,Erlotinib,0.56041676
+372,Cyclophosphamide,0.66020393
+373,Cefdinir,0.57314664
+374,Guanidine,0.58755887
+375,Ciprofloxacin,0.44617492
+376,Toremifene,0.63487524
+377,Nortriptyline,0.58664274
+378,Vincristine,0.65595144
+379,Benazepril,0.50398576
+380,Amoxapine,0.5781808
+381,Fluorouracil,0.71211404
+382,Pyridostigmine,0.6493904
+383,Desoximetasone,0.52972114
+384,Azelaic Acid,0.49684674
+385,Zafirlukast,0.544791
+386,Propylthiouracil,0.48052365
+387,Acetohydroxamic Acid,0.5436462
+388,Pentostatin,0.48716837
+389,Methoxsalen,0.59141
+390,Piroxicam,0.65426856
+391,Lamotrigine,0.6125294
+392,Hydroxyzine,0.58656365
+393,Zanamivir,0.61176765
+394,Bosentan,0.71430814
+395,Tigecycline,0.5866764
+396,Doxapram,0.6298251
+397,Methotrexate,0.72450465
+398,Carbamazepine,0.62974447
+399,Succimer,0.6307949
+400,Cephalexin,0.50802076
+401,Cinnarizine,0.5026525
+402,Fondaparinux sodium,0.48962513
+403,Vinblastine,0.6991161
+404,Propranolol,0.48286936
+405,Fenoprofen,0.6017021
+406,Clonidine,0.5970934
+407,Sulfamethizole,0.51284415
+408,Valaciclovir,0.5790067
+409,Carbenicillin,0.5456368
+410,Mazindol,0.5919208
+411,Lactulose,0.56190777
+412,Voriconazole,0.6032896
+413,L-Carnitine,0.57274485
+414,Enalapril,0.5735693
+415,Nizatidine,0.6001918
+416,Diclofenac,0.71459335
+417,Fluticasone Propionate,0.52047795
+418,Lisuride,0.642109
+419,Doxazosin,0.5400322
+420,Fluocinolone Acetonide,0.5095204
+421,Piperazine,0.6083263
+422,Ethosuximide,0.6206719
+423,Amiloride,0.53461283
+424,Oxytetracycline,0.49836564
+425,Ulobetasol,0.55328393
+426,Labetalol,0.49926293
+427,Thiopental,0.60123277
+428,Linezolid,0.57622766
+429,Ivermectin,0.5903683
+430,Medroxyprogesterone acetate,0.43607536
+431,Cisapride,0.5863818
+432,Sulindac,0.64125025
+433,Nafcillin,0.5557836
+434,Chloroquine,0.7379224
+435,Ethionamide,0.5574851
+436,Butorphanol,0.6180251
+437,Bisoprolol,0.51796937
+438,Rifabutin,0.5872114
+439,Paramethadione,0.5965849
+440,Demeclocycline,0.5223815
+441,Imatinib,0.4653251
+442,Triamcinolone,0.546384
+443,Nicardipine,0.50784165
+444,Fluphenazine,0.60340655
+445,Testosterone,0.38949403
+446,Efavirenz,0.5687901
+447,Bacitracin,0.5178396
+448,Niacin,0.627288
+449,Clorazepate,0.54624325
+450,Guanabenz,0.5150343
+451,Alendronic acid,0.59309185
+452,Clofarabine,0.59606665
+453,Docosanol,0.5792513
+454,Sulfacetamide,0.47716385
+455,Prednisone,0.59998524
+456,Clofibrate,0.5687901
+457,Astemizole,0.6478581
+458,Butoconazole,0.5837003
+459,Adenosine,0.53650063
+460,Simvastatin,0.56263596
+461,Pemetrexed,0.5590886
+462,Mebendazole,0.6177798
+463,Gonadorelin,0.6149371
+464,Dyclonine,0.5403951
+465,Nystatin,0.5542322
+466,Dextropropoxyphene,0.5917708
+467,Mitotane,0.5687901
+468,Stavudine,0.811085
+469,Leucovorin,0.60578644
+470,Dyphylline,0.52406406
+471,Pentazocine,0.5993756
+472,Magnesium Sulfate,0.55441964
+473,Latanoprost,0.653697
+474,Estrone,0.5168553
+475,Trazodone,0.6243305
+476,Mecamylamine,0.5687901
+477,Acamprosate,0.6393227
+478,Metaxalone,0.6608122
+479,Verapamil,0.48108914
+480,Trimethobenzamide,0.5026036
+481,Flumethasone,0.51732785
+482,Nilutamide,0.66763765
+483,Nafarelin,0.58371276
+484,Histamine Phosphate,0.6320024
+485,Epinephrine,0.5702883
+486,Sumatriptan,0.6200258
+487,Pirenzepine,0.5469252
+488,Cefixime,0.51455575
+489,Chlorpropamide,0.6359191
+490,Aprepitant,0.5732336
+491,Galantamine,0.5837751
+492,Tamoxifen,0.6392041
+493,Losartan,0.5013774
+494,Thioridazine,0.5764638
+495,Moricizine,0.5451445
+496,Amphotericin B,0.5156043
+497,Warfarin,0.6199414
+498,Midazolam,0.54720795
+499,Tobramycin,0.48630214
+500,Trovafloxacin,0.53129834
+501,Pentosan Polysulfate,0.5565495
+502,Fludrocortisone,0.56305707
+503,Flurazepam,0.555533
+504,Moexipril,0.5316045
+505,Phentolamine,0.53260946
+506,Daunorubicin,0.67571247
+507,Furosemide,0.58169127
+508,Ergotamine,0.63439643
+509,Tizanidine,0.6660703
+510,Nitrofurantoin,0.5178221
+511,Eplerenone,0.50297123
+512,Amprenavir,0.8062142
+513,Methazolamide,0.6976156
+514,Naltrexone,0.7078687
+515,Delavirdine,0.828593
+516,Tamsulosin,0.57513666
+517,Porfimer,0.587573
+518,Sufentanil,0.6030602
+519,Lamivudine,0.8757634
+520,Ibandronate,0.6291275
+521,Diethylcarbamazine,0.6411149
+522,Flurbiprofen,0.6370672
+523,Oxacillin,0.5240672
+524,Apomorphine,0.52879095
+525,Paroxetine,0.712216
+526,Nedocromil,0.54983467
+527,Norethisterone,0.44226643
+528,Adefovir Dipivoxil,0.5687901
+529,Azatadine,0.6310972
+530,Lisinopril,0.51122737
+531,Methoxamine,0.54914
+532,Imiquimod,0.5774601
+533,Homatropine Methylbromide,0.58123094
+534,Trimipramine,0.54997367
+535,Nitroglycerin,0.598706
+536,Thiabendazole,0.60583174
+537,Nateglinide,0.6264877
+538,Pralidoxime,0.64587617
+539,Risperidone,0.6228541
+540,Naftifine,0.5497989
+541,Esomeprazole,0.6026568
+542,Meclizine,0.53531027
+543,Pentamidine,0.5754648
+544,Riluzole,0.5961186
+545,Hydrocortisone,0.5221943
+546,Mannitol,0.57469434
+547,Zileuton,0.55303335
+548,Modafinil,0.5973607
+549,Deferoxamine,0.7410634
+550,Scopolamine,0.6411189
+551,Carbinoxamine,0.6559002
+552,Etodolac,0.6412265
+553,Prilocaine,0.57628185
+554,Epinastine,0.6247869
+555,Tranylcypromine,0.5687901
+556,Ethotoin,0.57869923
+557,Tretinoin,0.4826182
+558,Dolasetron,0.5772126
+559,Clopidogrel,0.48793456
+560,Tetracycline,0.49374804
+561,Meropenem,0.50109625
+562,Potassium Chloride,0.6075656
+563,Irinotecan,0.61196125
+564,Methimazole,0.49903122
+565,Mometasone,0.5225679
+566,Metyrosine,0.58449537
+567,Clavulanate,0.53296447
+568,Olopatadine,0.6006812
+569,Alprostadil,0.47637707
+570,Clidinium,0.6211982
+571,Malathion,0.57273346
+572,Etoposide,0.5687901
+573,Hydroflumethiazide,0.5388054
+574,Tirofiban,0.4574729
+575,Oxcarbazepine,0.5959204
+576,Phenelzine,0.57073575
+577,Polymyxin B Sulfate,0.50028235
+578,Propantheline,0.53698
+579,Estradiol,0.5194509
+580,Mefenamic acid,0.6155625
+581,Aciclovir,0.48951927
+582,Naproxen,0.7032111
+583,Perindopril,0.51403654
+584,Uracil mustard,0.63404596
+585,Tripelennamine,0.64590865
+586,Haloprogin,0.5112425
+587,Primidone,0.6104128
+588,Sulfasalazine,0.62538403
+589,Candesartan,0.5102124
+590,Tolazoline,0.616104
+591,Gentamicin,0.4880181
+592,Tazarotene,0.52205914
+593,Fenoldopam,0.4898119
+594,Halazepam,0.5687901
+595,Colistin,0.5947017
+596,Dicyclomine,0.625888
+597,Pentoxifylline,0.5419913
+598,Indapamide,0.51148975
+599,Tropicamide,0.66692805
+600,Biperiden,0.44790298
+601,Ribavirin,0.7132456
+602,Fentanyl,0.6013031
+603,Meloxicam,0.65154135
+604,Orciprenaline,0.5215483
+605,Acetazolamide,0.6919476
+606,Tadalafil,0.6063
+607,Disulfiram,0.6353496
+608,Menthol,0.5739484
+609,Natamycin,0.5853038
+610,Cinoxacin,0.5687901
+611,Fosfomycin,0.4985061
+612,Diazepam,0.52097756
+613,Phenmetrazine,0.59582144
+614,Trifluoperazine,0.525502
+615,Phensuximide,0.5806839
+616,Cefaclor,0.5656115
+617,Mifepristone,0.68885255
+618,Brompheniramine,0.60107285
+619,Loperamide,0.51466334
+620,Clocortolone,0.5368747
+621,Tolazamide,0.6240853
+622,Dobutamine,0.57435036
+623,Oxazepam,0.5247551
+624,Donepezil,0.60505265
+625,Nalbuphine,0.60862166
+626,Clofazimine,0.5889495
+627,Flurandrenolide,0.5301614
+628,Cysteamine,0.5687901
+629,Methylphenobarbital,0.52903014
+630,Perphenazine,0.5571711
+631,Dacarbazine,0.5021457
+632,Pseudoephedrine,0.66332865
+633,Temozolomide,0.6467471
+634,Levorphanol,0.608922
+635,Aminolevulinic acid,0.6141516
+636,Chlorphenesin,0.6589917
+637,Terbinafine,0.48373288
+638,Drostanolone,0.5728371
+639,Penicillamine,0.7440638
+640,Prednisolone,0.5750855
+641,Diflunisal,0.65128165
+642,Vardenafil,0.5852571
+643,Ranitidine,0.62893885
+644,Tacrolimus,0.60542893
+645,Benzphetamine,0.6054659
+646,Ritodrine,0.5195067
+647,Benzonatate,0.5969212
+648,Dorzolamide,0.69541234
+649,Terbutaline,0.48061803
+650,Conivaptan,0.6618335
+651,Loteprednol,0.5688264
+652,Guaifenesin,0.6900687
+653,Flupentixol,0.6009041
+654,Eprosartan,0.5294591
+655,Sirolimus,0.7408015
+656,Chlorhexidine,0.5774736
+657,Emtricitabine,0.8997961
+658,Chlorothiazide,0.5195801
+659,Quinapril,0.50873995
+660,Clomifene,0.61538875
+661,Isosorbide Dinitrate,0.5000691
+662,Risedronate,0.61906075
+663,Pemirolast,0.5716328
+664,Bumetanide,0.5547337
+665,Mechlorethamine,0.688179
+666,Granisetron,0.56833214
+667,Dienestrol,0.476044
+668,Sulfapyridine,0.5647057
+669,Testolactone,0.6158923
+670,Rimexolone,0.5669138
+671,Triazolam,0.5687901
+672,Remifentanil,0.650168
+673,Didanosine,0.8172019
+674,Methdilazine,0.6115333
+675,Etacrynic acid,0.5723646
+676,Ondansetron,0.5810669
+677,Bimatoprost,0.6948084
+678,Tiagabine,0.5909412
+679,Quinidine,0.6163081
+680,Tinidazole,0.48217216
+681,Repaglinide,0.6280224
+682,Amantadine,0.45614755
+683,Metronidazole,0.48835003
+684,Dinoprostone,0.72566855
+685,Almotriptan,0.60040575
+686,Spectinomycin,0.5048373
+687,Ketotifen,0.61029536
+688,Buprenorphine,0.60589755
+689,Levosimendan,0.5533886
+690,Cyclobenzaprine,0.64570606
+691,Phenoxybenzamine,0.57700866
+692,Famotidine,0.6038635
+693,Misoprostol,0.53795695
+694,Colesevelam,0.5739019
+695,Methacycline,0.5364181
+696,Tipranavir,0.5687901
+697,Mesoridazine,0.60603774
+698,Maprotiline,0.55546457
+699,Oxymetazoline,0.6361538
+700,Salicylic acid,0.574934
+701,Diethylpropion,0.5970668
+702,Salmeterol,0.5325673
+703,Meclofenamic acid,0.63799524
+704,Methantheline,0.62890565
+705,Cycrimine,0.50938845
+706,Zalcitabine,0.8223481
+707,Acetylsalicylic acid,0.69586843
+708,Phenprocoumon,0.5835708
+709,Mezlocillin,0.5425685
+710,Felbamate,0.6095472
+711,Fexofenadine,0.6068379
+712,Isoniazid,0.56455696
+713,Naratriptan,0.61303216
+714,Rizatriptan,0.6184255
+715,Dirithromycin,0.5430837
+716,Hydrocodone,0.64052045
+717,Norgestimate,0.47287998
+718,Carboplatin,0.63345087
+719,Methylprednisolone,0.5504277
+720,Pindolol,0.52390367
+721,Zaleplon,0.52054876
+722,Bromfenac,0.604329
+723,Apraclonidine,0.65331554
+724,Telmisartan,0.5349349
+725,Desloratadine,0.68174326
+726,Methyldopa,0.53247815
+727,Alosetron,0.5619771
+728,Dactinomycin,0.7131344
+729,Selenium Sulfide,0.514724
+730,Azelastine,0.6208269
+731,Ezetimibe,0.5558879
+732,Edetic Acid,0.68789905
+733,Dipyridamole,0.53707093
+734,Telithromycin,0.57041156
+735,Ethinyl Estradiol,0.45876858
+736,Lomefloxacin,0.5659841
+737,Cyclopentolate,0.6522879
+738,Ramelteon,0.5687901
+739,Physostigmine,0.7001691
+740,Isotretinoin,0.53073907
+741,Formoterol,0.5404645
+742,Dimenhydrinate,0.5066941
+743,Glycopyrronium,0.6007688
+744,Cytarabine,0.69220227
+745,Dopamine,0.51822525
+746,Rivastigmine,0.6010322
+747,Oxaprozin,0.63720435
+748,Azathioprine,0.6283908
+749,Neomycin,0.5246156
+750,Auranofin,0.63875324
+751,Gabapentin,0.5579507
+752,Doxorubicin,0.7579833
+753,Frovatriptan,0.6130461
+754,Hydrochlorothiazide,0.50029653
+755,Cyclacillin,0.5618461
+756,Salbutamol,0.5370696
+757,Cromoglicic acid,0.6494424
+758,Ganciclovir,0.549382
+759,Hydroxyurea,0.70888
+760,Tioconazole,0.59152776
+761,Busulfan,0.55101633
+762,Ketoprofen,0.6380612
+763,Clobetasol propionate,0.60939234
+764,Balsalazide,0.6237223
+765,Sulfamethoxazole,0.47508
+766,Glyburide,0.6354154
+767,Minocycline,0.46139959
+768,Guanfacine,0.5367261
+769,Bethanechol,0.5076702
+770,Isosorbide Mononitrate,0.5342478
+771,Trichlormethiazide,0.51297826
+772,Phylloquinone,0.71086836
+773,Felodipine,0.50776595
+774,Amlexanox,0.5426108
+775,Ketoconazole,0.43167502
+776,Irbesartan,0.49213013
+777,Topotecan,0.6421223
+778,Ethinamate,0.53136736
+779,Probenecid,0.5390863
+780,Mercaptopurine,0.5827419
+781,Tolterodine,0.5056144
+782,Selegiline,0.5659345
+783,Fenofibrate,0.5911403
+784,Thalidomide,0.57696426
+785,Melphalan,0.6552619
+786,Gatifloxacin,0.51593727
+787,Rifampicin,0.5687901
+788,Lubiprostone,0.69211745
+789,Fluocinonide,0.5425581
+790,Abacavir,0.8205479
+791,Ergoloid mesylate,0.5687901
+792,Ibuprofen,0.72176397
+793,Benzylpenicillin,0.31147683
+794,Tocainide,0.5435473
+795,Echothiophate,0.6748807
+796,Praziquantel,0.5687901
+797,Norfloxacin,0.4659289
+798,Amoxicillin,0.58521605
+799,Azlocillin,0.51631546
+800,Oxybutynin,0.50643975
+801,Acetophenazine,0.5921596
+802,Isoprenaline,0.70677114
+803,Melatonin,0.53517014
+804,Cefditoren,0.5582431
+805,Glipizide,0.62459105
+806,Clonazepam,0.6672887
+807,Promethazine,0.61053
+808,Dihydrotachysterol,0.54149556
+809,Atazanavir,0.8966517
+810,Diphenhydramine,0.5978728
+811,Atorvastatin,0.50154763
+812,Etidronic acid,0.59799993
+813,Vigabatrin,0.6181577
+814,Diphenoxylate,0.5687901
+815,Streptomycin,0.48305848
+816,Orlistat,0.614007
+817,Emedastine,0.61465985
+818,Pilocarpine,0.7229035
+819,Benzocaine,0.56792015
+820,Primaquine,0.7090922
+821,Iloprost,0.65059495
+822,Butenafine,0.51492953
+823,Dimethyl sulfoxide,0.5671463
+824,Fluvastatin,0.5689224
+825,Oxamniquine,0.5687901
+826,Leflunomide,0.5687901
+827,Rosuvastatin,0.56493384
+828,Pimozide,0.6376758
+829,Capecitabine,0.6708065
+830,Quinacrine,0.5687901
+831,Sertraline,0.70237565
+832,Sibutramine,0.60393906
+833,Levocabastine,0.6086756
+834,Methyprylon,0.5416518
+835,Trilostane,0.50663084
+836,Heparin,0.41356817
+837,Miconazole,0.48887274
+838,Colistimethate,0.5908767
+839,Cefuroxime,0.4719225
+840,Papaverine,0.56613654
+841,Chlorphenamine,0.6452718
+842,Nifedipine,0.51493955
+843,Trimethaphan,0.57336026
+844,Atovaquone,0.6742687
+845,Amiodarone,0.5687901
+846,Diazoxide,0.5073603
+847,Gliclazide,0.6212784
+848,Phenacemide,0.5863635
+849,Ambenonium,0.63921475
+850,Tolbutamide,0.6332436
+851,Dutasteride,0.59074324
+852,Econazole,0.5081578
+853,Bicalutamide,0.68350637
+854,Rabeprazole,0.59100825
+855,Prednicarbate,0.5719441
+856,Proguanil,0.6985227
+857,Pioglitazone,0.61223936
+858,Tiludronate,0.58646774
+859,Carvedilol,0.5027993
+860,Levofloxacin,0.51691467
+861,Sulfinpyrazone,0.55567694
+862,Cefapirin,0.48635584
+863,Cefadroxil,0.51975876
+864,Micafungin,0.66607195
+865,Doxepin,0.5463204
+866,Diclofenamide,0.69381714
+867,Diphenylpyraline,0.6401814
+868,Cloxacillin,0.572855
+869,Flavoxate,0.5603668
+870,Nefazodone,0.61114573
+871,Cefprozil,0.5667689
+872,Desipramine,0.57597804
+873,Sertaconazole,0.56335115
+874,Gemifloxacin,0.57508457
+875,Bupropion,0.6658927
+876,Bretylium,0.5633138
+877,Dinoprost Tromethamine,0.7131431
+878,Terazosin,0.5298803
+879,Calcium Chloride,0.8542383
+880,Ofloxacin,0.4820528
+881,Cilostazol,0.5603337
+882,Itraconazole,0.656675
+883,Procarbazine,0.5968785
+884,Arsenic trioxide,0.57649815
+885,Guanethidine,0.50917894
+886,Moclobemide,0.5687901
+887,Kanamycin,0.5659983
+888,Orphenadrine,0.6596319
+889,Phenobarbital,0.6276262
+890,Escitalopram,0.67364633
+891,Cyclizine,0.63454443
+892,Idarubicin,0.6340644
+893,Chlormezanone,0.51549953
+894,Podofilox,0.5537617
+895,Ifosfamide,0.5687901
+896,Propafenone,0.695834
+897,Naloxone,0.680843
+898,Domperidone,0.53068435
+899,Fluoxymesterone,0.36049888
+900,Pergolide,0.5687901
+901,Ciclopirox,0.47547156
+902,Clindamycin,0.54377633
+903,Dexfenfluramine,0.6034991
+904,Oxymorphone,0.6217853
+905,Acebutolol,0.52572876
+906,Brinzolamide,0.6888066
+907,Flecainide,0.70338595
+908,Estramustine,0.62529045
+909,Captopril,0.48392206
+910,Zopiclone,0.54013866
+911,Bromocriptine,0.4813764
+912,Rifapentine,0.57664835
+913,Levetiracetam,0.5993792
+914,Nadolol,0.50928605
+915,Mitoxantrone,0.7246528
+916,Lomustine,0.6252135
+917,Sparfloxacin,0.60345787
+918,Dezocine,0.5918119
+919,Levobunolol,0.6917258
+920,Clarithromycin,0.56055737
+921,Ceftriaxone,0.4702079
+922,Fomepizole,0.56774306
+923,Metipranolol,0.5687901
+924,Finasteride,0.6027906
+925,Anastrozole,0.56172943
+926,Halofantrine,0.6847089
+927,Dantrolene,0.52070254
+928,Rifaximin,0.55356836
+929,Budesonide,0.57362115
+930,Aminophylline,0.5060277
+931,Quetiapine,0.6732596
+932,Enoxaparin,0.5000271
+933,Levomethadyl Acetate,0.5687901
+934,Encainide,0.5698607
+935,Paclitaxel,0.7120567
+936,Diphenidol,0.5379859
+937,Saquinavir,0.8220538
+938,Metoclopramide,0.5783015
+939,Dexamethasone,0.533302
+940,Levodopa,0.48246607
+941,Bromodiphenhydramine,0.65514714
+942,Aripiprazole,0.61586165
+943,Chlorprothixene,0.59636354
+944,Epoprostenol,0.63331705
+945,Gemfibrozil,0.57442254
+946,Clomipramine,0.6643195
+947,Chloroxine,0.53355265
+948,Bepridil,0.5350573
+949,Alimemazine,0.6281989
+950,Isocarboxazid,0.6222808
+951,Docetaxel,0.69736975
+952,Olsalazine,0.5746501
+953,Gliquidone,0.6282261
+954,Mitiglinide,0.6254752
+955,Ergonovine,0.53948134
+956,Dasatinib,0.48034087
+957,Lisdexamfetamine,0.5745447
+958,Retapamulin,0.5449982
+959,Eculizumab,0.6373982
+960,Desonide,0.53213376
+961,Sitagliptin,0.5687901
+962,Decitabine,0.64225906
+963,Posaconazole,0.53901714
+964,Darunavir,0.8178581
+965,Telbivudine,0.7492727
+966,Sinecatechins,0.5539201
+967,Paliperidone,0.60370153
+968,Sunitinib,0.7297312
+969,Panitumumab,0.5044037
+970,Ranibizumab,0.72453123
+971,Idursulfase,0.5687901
+972,Alglucosidase alfa,0.50510824
+973,Arformoterol,0.55353504
+974,Hydralazine,0.5011065
+975,Mecasermin,0.53989905
+976,Galsulfase,0.6414014
+977,Nelarabine,0.6036458
+978,Abatacept,0.66343087
+979,Carbetocin,0.5015814
+980,Lumiracoxib,0.63128674
+981,Corticotropin,0.56321156
+982,Glisoxepide,0.6284813
+983,Pirbuterol,0.5067737
+984,Bismuth Subsalicylate,0.5268933
+985,Insulin Aspart,0.5333379
+986,Insulin Detemir,0.51214796
+987,Insulin Glulisine,0.49857438
+988,Fosamprenavir,0.8118766
+989,Fosphenytoin,0.58033013
+990,Polythiazide,0.51087385
+991,Cefamandole,0.48252076
+992,Cefazolin,0.5566024
+993,Cefonicid,0.49672642
+994,Cefotetan,0.47839996
+995,Cefoxitin,0.51437116
+996,Ceftizoxime,0.50476694
+997,Cefradine,0.5373568
+998,Cilazapril,0.508467
+999,Polystyrene sulfonate,0.7235651
+1000,Spirapril,0.51711744
+1001,Tasosartan,0.5077484
+1002,Amobarbital,0.53310275
+1003,Aprobarbital,0.540802
+1004,Butethal,0.529667
+1005,Lithium,0.71216184
+1006,Mestranol,0.5392748
+1007,Penbutolol,0.5079555
+1008,Troleandomycin,0.5761528
+1009,Ephedrine,0.6129037
+1010,Mephentermine,0.5447979
+1011,Rasagiline,0.5687901
+1012,Quinupristin,0.56718266
+1013,Magnesium oxide,0.60184383
+1014,Cortisone acetate,0.5330195
+1015,Glycodiazine,0.6262679
+1016,Bezafibrate,0.56038415
+1017,Colchicine,0.64031583
+1018,Drospirenone,0.46507242
+1019,Magnesium salicylate,0.67689604
+1020,Salsalate,0.64145434
+1021,Neostigmine,0.51579
+1022,Danazol,0.51113766
+1023,Tiotropium,0.5333134
+1024,Ciclesonide,0.5739728
+1025,Pranlukast,0.5443745
+1026,Cefepime,0.4931601
+1027,Ceftibuten,0.5776844
+1028,Cefpodoxime,0.5191715
+1029,Testosterone Propionate,0.38417104
+1030,Paromomycin,0.6393345
+1031,Amrinone,0.5866698
+1032,Aprindine,0.5541013
+1033,Almitrine,0.5687901
+1034,Cholestyramine,0.59341747
+1035,Methadyl Acetate,0.58824426
+1036,Antipyrine,0.5882544
+1037,Alfacalcidol,0.5704838
+1038,Glutethimide,0.5439932
+1039,Phenazopyridine,0.59202164
+1040,Gamma Hydroxybutyric Acid,0.5661251
+1041,Heroin,0.58595926
+1042,Difenoxin,0.5490696
+1043,Ethyl loflazepate,0.5322499
+1044,Fenproporex,0.5687901
+1045,Dihydrocodeine,0.62448543
+1046,Chloral hydrate,0.5687901
+1047,Dextroamphetamine,0.5899197
+1048,Methamphetamine,0.58533996
+1049,Phendimetrazine,0.6102278
+1050,Oxprenolol,0.49282652
+1051,Ursodeoxycholic acid,0.60975295
+1052,Prazepam,0.5416547
+1053,Quazepam,0.5274982
+1054,Everolimus,0.7225976
+1055,Solifenacin,0.50994927
+1056,Iron,0.65985364
+1057,Nitrazepam,0.60544395
+1058,Cilastatin,0.5250222
+1059,Imipenem,0.519949
+1060,Probucol,0.54266137
+1061,Tiaprofenic acid,0.6238432
+1062,Lopinavir,0.8998164
+1063,Bacampicillin,0.56057787
+1064,Meticillin,0.5654536
+1065,Tazobactam,0.59196407
+1066,Ticarcillin,0.50812227
+1067,Deferasirox,0.662216
+1068,Hydroxychloroquine,0.88785994
+1069,Amyl Nitrite,0.64092463
+1070,Aceprometazine,0.5546046
+1071,Molindone,0.6015753
+1072,Phenindamine,0.6253159
+1073,Pheniramine,0.6716161
+1074,Pipotiazine,0.5867741
+1075,Thiothixene,0.598733
+1076,Isopropamide,0.5687901
+1077,Pargyline,0.5127925
+1078,Lincomycin,0.5239326
+1079,Roflumilast,0.5687901
+1080,Camphor,0.6778836
+1081,Dalfopristin,0.5687901
+1082,Calcipotriol,0.5783668
+1083,Vorinostat,0.55569166
+1084,Cholic Acid,0.5885561
+1085,Nicotinamide,0.52159005
+1086,Fusidic Acid,0.5068482
+1087,Acetic acid,0.5413381
+1088,Oteracil,0.6200449
+1089,Phenol,0.53845555
+1090,Hemin,0.63382214
+1091,Deoxycholic Acid,0.5129369
+1092,Benzoic Acid,0.737952
+1093,Formaldehyde,0.6017459
+1094,Urea,0.55343086
+1095,Lactic Acid,0.54563123
+1096,Lactose,0.5687901
+1097,Trioxsalen,0.66636187
+1098,Thiotepa,0.6751345
+1099,Estrone sulfate,0.5049811
+1100,Quinestrol,0.4681635
+1101,Suramin,0.5796437
+1102,Clofedanol,0.61618984
+1103,Fluspirilene,0.59684
+1104,Mepenzolate,0.6199721
+1105,Ixabepilone,0.6720631
+1106,Celiprolol,0.53157634
+1107,Febuxostat,0.55527437
+1108,Dronedarone,0.6836566
+1109,Nebivolol,0.5687901
+1110,Homoharringtonine,0.64663076
+1111,Nilotinib,0.46993583
+1112,Lorcaserin,0.6039714
+1113,Vildagliptin,0.62307864
+1114,Voglibose,0.6306041
+1115,Bepotastine,0.6202528
+1116,Pegaptanib,0.64767176
+1117,Milnacipran,0.6373952
+1118,Lucinactant,0.5687901
+1119,Nesiritide,0.57955575
+1120,Flibanserin,0.5687901
+1121,Oritavancin,0.5652775
+1122,Clevidipine,0.51066446
+1123,Permethrin,0.59170455
+1124,Afamelanotide,0.5687901
+1125,Defibrotide,0.5454295
+1126,Ospemifene,0.53059375
+1127,Crofelemer,0.65010345
+1128,Tamibarotene,0.5697759
+1129,Iloperidone,0.5687901
+1130,Lofexidine,0.61318964
+1131,Ingenol Mebutate,0.61241275
+1132,Belinostat,0.5941334
+1133,Ataluren,0.5901293
+1134,Trabectedin,0.609153
+1135,Cobimetinib,0.5058193
+1136,Silver sulfadiazine,0.5687901
+1137,Methsuximide,0.5864779
+1138,Glatiramer Acetate,0.5663855
+1139,Ecabet,0.55962646
+1140,Ibudilast,0.5687901
+1141,Rotigotine,0.51674986
+1142,Vandetanib,0.6080221
+1143,Ecallantide,0.6137676
+1144,Romiplostim,0.5687901
+1145,Obiltoxaximab,0.582748
+1146,Telaprevir,0.6950938
+1147,Mipomersen,0.5687901
+1148,Ramucirumab,0.55424416
+1149,Sodium stibogluconate,0.5354543
+1150,Apremilast,0.5963491
+1151,Ustekinumab,0.5804873
+1152,Trastuzumab emtansine,0.59414214
+1153,Abiraterone,0.6759686
+1154,Parathyroid hormone,0.54736996
+1155,Cariprazine,0.6077723
+1156,Sertindole,0.5955035
+1157,Sulfathiazole,0.59933996
+1158,Mianserin,0.6184859
+1159,Acetylcysteine,0.55591977
+1160,Rimonabant,0.59968567
+1161,Canakinumab,0.7430041
+1162,Romidepsin,0.56921774
+1163,Ipilimumab,0.5087137
+1164,Icatibant,0.6018001
+1165,Rufinamide,0.5687901
+1166,Alogliptin,0.5687901
+1167,Tapentadol,0.5687901
+1168,Silodosin,0.5920252
+1169,Prasugrel,0.52603817
+1170,Eltrombopag,0.5687901
+1171,Doripenem,0.6190026
+1172,Tolvaptan,0.727371
+1173,Asenapine,0.62382644
+1174,Dalbavancin,0.56325305
+1175,Avanafil,0.5944598
+1176,Eflornithine,0.57959795
+1177,Incadronic acid,0.61183214
+1178,Droxidopa,0.53876734
+1179,Udenafil,0.596185
+1180,Sitaxentan,0.65244675
+1181,Tocilizumab,0.8295063
+1182,Alvimopan,0.6057957
+1183,Levocetirizine,0.6542751
+1184,Ziconotide,0.637131
+1185,Teriparatide,0.57805556
+1186,Temsirolimus,0.7220119
+1187,Amisulpride,0.60402083
+1188,Simeprevir,0.68631923
+1189,Dapagliflozin,0.63316584
+1190,Elotuzumab,0.5853365
+1191,Saxagliptin,0.6209827
+1192,Pertuzumab,0.60401386
+1193,Rilonacept,0.64552546
+1194,Bazedoxifene,0.48570865
+1195,Telavancin,0.5966127
+1196,Ambrisentan,0.66101575
+1197,Oxymetholone,0.58328164
+1198,Armodafinil,0.5872291
+1199,Etravirine,0.8331584
+1200,Calfactant,0.5687901
+1201,Tyloxapol,0.562133
+1202,Prucalopride,0.5655115
+1203,Pazopanib,0.73741025
+1204,Ceftaroline fosamil,0.5491149
+1205,Agomelatine,0.61392945
+1206,Panobinostat,0.56152767
+1207,Apixaban,0.5670587
+1208,Mepolizumab,0.6050896
+1209,Peramivir,0.6109646
+1210,Bosutinib,0.48658976
+1211,Axitinib,0.5687901
+1212,Isavuconazonium,0.64974374
+1213,Dalfampridine,0.57339126
+1214,Denosumab,0.6200277
+1215,Ofatumumab,0.5687901
+1216,Liraglutide,0.62647396
+1217,Pasireotide,0.5325497
+1218,golimumab,0.62567794
+1219,Belatacept,0.62657297
+1220,Vilazodone,0.6139991
+1221,Mepyramine,0.66390115
+1222,Aprotinin,0.6135627
+1223,Xylometazoline,0.6281949
+1224,Betahistine,0.5687901
+1225,Desvenlafaxine,0.6168463
+1226,Dexmethylphenidate,0.57864904
+1227,Fesoterodine,0.51168656
+1228,Lumefantrine,0.6655774
+1229,Methyltestosterone,0.38191378
+1230,Naphazoline,0.6029584
+1231,Potassium Iodide,0.6339359
+1232,Fosaprepitant,0.56837577
+1233,Stanozolol,0.61486423
+1234,Velaglucerase alfa,0.6103697
+1235,Aluminum hydroxide,0.57658035
+1236,Calcium carbonate,0.6358196
+1237,Lornoxicam,0.5687901
+1238,Ambroxol,0.6113686
+1239,Glycine betaine,0.4752423
+1240,Sacrosidase,0.5687901
+1241,Beractant,0.5687901
+1242,Tetryzoline,0.64561373
+1243,Alcaftadine,0.6111059
+1244,Ammonium chloride,0.6368495
+1245,Ammonium lactate,0.5127977
+1246,Bendamustine,0.63905334
+1247,Benzyl alcohol,0.5419441
+1248,Besifloxacin,0.5470511
+1249,Cabazitaxel,0.67593044
+1250,Capsaicin,0.6400511
+1251,Chenodeoxycholic acid,0.59853137
+1252,Dimercaprol,0.66303796
+1253,Prussian blue,0.56270367
+1254,Halcinonide,0.53386796
+1255,Histrelin,0.65137184
+1256,Lanreotide,0.584365
+1257,Lodoxamide,0.6444577
+1258,Hexamethylenetetramine,0.5761619
+1259,Methylnaltrexone,0.68421537
+1260,Niclosamide,0.42946106
+1261,Plerixafor,0.5857608
+1262,Polidocanol,0.5214212
+1263,Pralatrexate,0.5640545
+1264,Raltegravir,0.8005326
+1265,Sodium phenylbutyrate,0.59481275
+1266,Sulconazole,0.51492506
+1267,Tiopronin,0.6997698
+1268,Triethylenetetramine,0.7136126
+1269,Unoprostone,0.6899881
+1270,Tranilast,0.54120415
+1271,Parecoxib,0.65011305
+1272,Diloxanide,0.5687901
+1273,Azidocillin,0.48163754
+1274,Salicylamide,0.67728794
+1275,Antazoline,0.65585995
+1276,Nandrolone decanoate,0.6604862
+1277,Roxatidine acetate,0.6400539
+1278,Bupranolol,0.46596196
+1279,Lurasidone,0.59666586
+1280,Ticagrelor,0.5408701
+1281,Tafluprost,0.69738203
+1282,Ivacaftor,0.54790026
+1283,Azilsartan medoxomil,0.5254909
+1284,Spinosad,0.59295815
+1285,Deferiprone,0.6678035
+1286,Lomitapide,0.58604693
+1287,Vismodegib,0.5932265
+1288,Pitavastatin,0.5687901
+1289,Rilpivirine,0.81532055
+1290,Ulipristal,0.56775236
+1291,Fingolimod,0.6453884
+1292,Tesamorelin,0.60306734
+1293,Brentuximab vedotin,0.6318681
+1294,Eribulin,0.6437834
+1295,gabapentin enacarbil,0.5919011
+1296,Boceprevir,0.5687901
+1297,Fidaxomicin,0.52441114
+1298,Cabozantinib,0.72719914
+1299,Ruxolitinib,0.64405024
+1300,Belimumab,0.6248188
+1301,Teriflunomide,0.611112
+1302,Linagliptin,0.63297874
+1303,Aflibercept,0.7464644
+1304,Icosapent ethyl,0.5583945
+1305,Ocriplasmin,0.6576986
+1306,Carfilzomib,0.5753143
+1307,Linaclotide,0.65978813
+1308,Mirabegron,0.5488553
+1309,Peginesatide,0.6891879
+1310,Tofacitinib,0.5687901
+1311,Regorafenib,0.6667032
+1312,Aclidinium,0.58971417
+1313,Enzalutamide,0.6548119
+1314,Teduglutide,0.52393115
+1315,Ponatinib,0.6238955
+1316,Raxibacumab,0.5767113
+1317,Bedaquiline,0.5687901
+1318,Certolizumab pegol,0.62756693
+1319,Formestane,0.61924124
+1320,Fluticasone furoate,0.5566398
+1321,Canagliflozin,0.6418208
+1322,Dimethyl fumarate,0.6541029
+1323,Glycerol Phenylbutyrate,0.6029842
+1324,Pomalidomide,0.5892808
+1325,Trametinib,0.50449324
+1326,Dabrafenib,0.5687901
+1327,Radium Ra 223 Dichloride,0.66627795
+1328,Afatinib,0.5625708
+1329,Ferric Carboxymaltose,0.6432031
+1330,Levomilnacipran,0.6085703
+1331,Perospirone,0.5919699
+1332,Epoetin Zeta,0.68410605
+1333,Dolutegravir,0.8083243
+1334,Riociguat,0.6974883
+1335,Macitentan,0.67681915
+1336,Luliconazole,0.54188246
+1337,Sofosbuvir,0.5687901
+1338,Obinutuzumab,0.6422528
+1339,Chlorcyclizine,0.6449836
+1340,Isoxsuprine,0.56489396
+1341,Floctafenine,0.61710495
+1342,Etofenamate,0.63460714
+1343,Enviomycin,0.5718884
+1344,Demexiptiline,0.5687901
+1345,Captodiame,0.5687901
+1346,Butriptyline,0.5687901
+1347,Bisacodyl,0.52672285
+1348,Aliskiren,0.51229477
+1349,Ledipasvir,0.67712975
+1350,Secukinumab,0.5814595
+1351,Vorapaxar,0.5838117
+1352,Miltefosine,0.5301189
+1353,Vedolizumab,0.5922487
+1354,Suvorexant,0.54224896
+1355,Nivolumab,0.47904655
+1356,Siltuximab,0.6922165
+1357,Pembrolizumab,0.51661235
+1358,Empagliflozin,0.6274603
+1359,Eliglustat,0.5687901
+1360,Efinaconazole,0.5440284
+1361,Tavaborole,0.6279707
+1362,Tedizolid Phosphate,0.56594414
+1363,Albiglutide,0.6251917
+1364,Dulaglutide,0.62127745
+1365,Metreleptin,0.5499117
+1366,Finafloxacin,0.53045696
+1367,Netupitant,0.5717502
+1368,Naloxegol,0.7099224
+1369,Ceftolozane,0.5462902
+1370,Elosulfase alfa,0.6179713
+1371,Blinatumomab,0.60435593
+1372,Ibrutinib,0.6404221
+1373,Idelalisib,0.56628466
+1374,Avibactam,0.58127296
+1375,Cobicistat,0.5687901
+1376,Vortioxetine,0.5687901
+1377,Tasimelteon,0.53909683
+1378,Sodium oxybate,0.5844933
+1379,Palbociclib,0.5794716
+1380,Olaparib,0.5712821
+1381,Edoxaban,0.65104026
+1382,Umeclidinium,0.5687901
+1383,Dinutuximab,0.6495668
+1384,Lenvatinib,0.54796565
+1385,Nintedanib,0.547395
+1386,Olodaterol,0.59713024
+1387,Idebenone,0.5687901
+1388,Vilanterol,0.5634592
+1389,Ivabradine,0.52219796
+1390,Benzydamine,0.5958745
+1391,Tetracaine,0.54723865
+1392,Potassium alum,0.56455
+1393,Chlortetracycline,0.5394535
+1394,Benzoyl peroxide,0.49472916
+1395,Elvitegravir,0.80724233
+1396,Daclatasvir,0.6940421
+1397,Magnesium hydroxide,0.56021017
+1398,Asfotase Alfa,0.6165643
+1399,Methoxy polyethylene glycol-epoetin beta,0.6716327
+1400,Turoctocog alfa,0.54033077
+1401,Mesna,0.65513176
+1402,Sodium Nitrite,0.6432352
+1403,Poractant alfa,0.5687901
+1404,Colfosceril palmitate,0.5824586
+1405,Diiodohydroxyquinoline,0.56449234
+1406,Stiripentol,0.5842389
+1407,Peginterferon beta-1a,0.64025646
+1408,Potassium Citrate,0.7514242
+1409,Disodium phosphate,0.5687901
+1410,Brexpiprazole,0.6416812
+1411,Protamine sulfate,0.5687901
+1412,Sonidegib,0.5809796
+1413,Uridine triacetate,0.6039283
+1414,Sucroferric Oxyhydroxide,0.60728234
+1415,Nitrogen,0.6139622
+1416,Sodium Citrate,0.6265127
+1417,Ferric Citrate,0.5687901
+1418,Etizolam,0.5687901
+1419,Dosulepin,0.6113556
+1420,Dasabuvir,0.664918
+1421,Viloxazine,0.5633445
+1422,Lobeglitazone,0.62902117
+1423,Moxisylyte,0.59242624
+1424,Loxoprofen,0.5687901
+1425,Dexibuprofen,0.6716027
+1426,Polaprezinc,0.55248994
+1427,Blonanserin,0.5936044
+1428,Conestat alfa,0.60984504
+1429,Aranidipine,0.5255701
+1430,Azelnidipine,0.5687901
+1431,Efonidipine,0.5132995
+1432,Pirlindole,0.58122766
+1433,Toloxatone,0.5687901
+1434,Tegafur,0.6550143
+1435,Gimeracil,0.5687901
+1436,Bemiparin,0.5687901
+1437,Imidafenacin,0.53614944
+1438,Patiromer,0.6931985
+1439,Idarucizumab,0.63055104
+1440,Lixisenatide,0.62497276
+1441,Strontium ranelate,0.5691582
+1442,Phenylacetic acid,0.58248234
+1443,Eluxadoline,0.5645454
+1444,Artesunate,0.5687901
+1445,Sodium aurothiomalate,0.62594926
+1446,Fimasartan,0.53824335
+1447,Magnesium Trisilicate,0.5444742
+1448,Polyethylene glycol,0.5661286
+1449,Ramosetron,0.5687901
+1450,Rolapitant,0.5782544
+1451,Sacubitril,0.5223474
+1452,Sodium Iodide I-131,0.52085024
+1453,Ombitasvir,0.6794368
+1454,Paritaprevir,0.680758
+1455,Tenofovir alafenamide,0.5687901
+1456,Scopolamine butylbromide,0.6895157
+1457,Alirocumab,0.59465855
+1458,Evolocumab,0.5547902
+1459,Coagulation Factor XIII A-Subunit (Recombinant),0.518858
+1460,Procaine benzylpenicillin,0.44940898
+1461,Zinc oxide,0.45623088
+1462,Zinc sulfate,0.5655273
+1463,Benzathine benzylpenicillin,0.5356118
+1464,Sulbactam,0.54132265
+1465,Sodium fluoride,0.60657525
+1466,Osimertinib,0.5605419
+1467,Daratumumab,0.5833166
+1468,Kappadione,0.68392843
+1469,Tipiracil,0.6427265
+1470,Pramocaine,0.44521424
+1471,Piperonyl butoxide,0.5957982
+1472,Levobetaxolol,0.68935376
+1473,Hydroxyamphetamine hydrobromide,0.64183223
+1474,Sulfur,0.46465337
+1475,Dexpanthenol,0.53369224
+1476,Norgestrel,0.4811406
+1477,Propoxyphene napsylate,0.5687901
+1478,Magnesium chloride,0.54340166
+1479,Sodium phosphate,0.5328556
+1480,Glycerin,0.5450833
+1481,"Sodium phosphate, dibasic, heptahydrate",0.53674906
+1482,"Sodium phosphate, monobasic, anhydrous",0.55466014
+1483,Sodium sulfate,0.5687901
+1484,Enalaprilat,0.49452913
+1485,Magnesium carbonate,0.53303075
+1486,Cysteine hydrochloride,0.550768
+1487,Acrivastine,0.6446191
+1488,Octinoxate,0.5542735
+1489,Sodium thiosulfate,0.6231086
+1490,Simethicone,0.53625584
+1491,Sodium ferric gluconate complex,0.6403791
+1492,"Sodium phosphate, monobasic, monohydrate",0.5622272
+1493,Hydroquinone,0.62590855
+1494,Methyl salicylate,0.615925
+1495,Thonzonium bromide,0.5501416
+1496,Dexchlorpheniramine maleate,0.6119156
+1497,Necitumumab,0.55308497
+1498,Filgrastim-sndz,0.5342512
+1499,Insulin Degludec,0.51506686
+1500,Omega-3-carboxylic acids,0.5687901
+1501,Ixazomib,0.5690157
+1502,Levomethamphetamine,0.5687901
+1503,Histamine,0.5687901
+1504,Selexipag,0.6537626
+1505,Alectinib,0.55762243
+1506,Senna glycoside,0.5509059
+1507,Lesinurad,0.5687901
+1508,Sebelipase alfa,0.5605573
+1509,Ixekizumab,0.5634902
+1510,Elbasvir,0.6901844
+1511,Grazoprevir,0.6880639
+1512,Venetoclax,0.6341819
+1513,Thiocolchicoside,0.64778936
+1514,Bilastine,0.57106864
+1515,Atezolizumab,0.583757
+1516,Levoleucovorin,0.61140037
+1517,Susoctocog alfa,0.61276805
+1518,Eftrenonacog alfa,0.5194623
+1519,Foscarnet,0.5687901
+1520,Trimetrexate,0.5687901
+1521,Cidofovir,0.5687901
+1522,Dexrazoxane,0.5687901
+1523,Amifostine,0.5687901
+1524,Mycophenolate mofetil,0.5687901
+1525,Mycophenolic acid,0.5687901
+1526,Fludarabine,0.5687901
+1527,Triptorelin,0.5687901
+1528,Exemestane,0.5687901
+1529,Letrozole,0.5687901
+1530,Abciximab,0.5687901
+1531,Memantine,0.5687901
+1532,Fulvestrant,0.5687901
+1533,Nandrolone phenpropionate,0.5687901
+1534,Azacitidine,0.5687901
+1535,Valganciclovir,0.5687901
+1536,Darbepoetin alfa,0.5687901
+1537,Cangrelor,0.5687901
+1538,Cocaine,0.5687901
+1539,Flucloxacillin,0.5687901
+1540,Teicoplanin,0.5687901
+1541,Ropivacaine,0.5687901
+1542,Hydroxyprogesterone caproate,0.5687901
+1543,Rosiglitazone,0.5687901
+1544,Piracetam,0.5687901
+1545,Ketamine,0.5687901
+1546,Ethanol,0.5687901
+1547,Zonisamide,0.5687901
+1548,Sulfadoxine,0.5687901
+1549,Exenatide,0.5687901
+1550,Sevelamer,0.5687901
+1551,Flucytosine,0.5687901
+1552,Somatostatin,0.5687901
+1553,Dexmedetomidine,0.5687901
+1554,Propofol,0.5687901
+1555,Dimetindene,0.5687901
+1556,Lapatinib,0.5687901
+1557,Pramlintide,0.5687901
+1558,Etomidate,0.5687901
+1559,Terlipressin,0.5687901
+1560,Varenicline,0.5687901
+1561,Levobupivacaine,0.5687901
+1562,Sevoflurane,0.5687901
+1563,Alitretinoin,0.5687901
+1564,Ezogabine,0.5687901
+1565,Ganirelix,0.5687901
+1566,Rivaroxaban,0.5687901
+1567,Nitrous oxide,0.5687901
+1568,Acetylcarnitine,0.5687901
+1569,Eslicarbazepine acetate,0.5687901
+1570,Nitrendipine,0.5687901
+1571,Succinylcholine,0.5687901
+1572,Remdesivir,0.84733176
